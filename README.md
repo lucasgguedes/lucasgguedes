@@ -1,6 +1,6 @@
 ### Hi dear, I'm Lucas Guedes :wave:
 - :telescope: I’m currently working on Support Analyst Jr.
-- :seedling: I’m currently learning Front End (JavaScript), api and mobile tests.
+- :seedling: I’m currently learning Front End (JavaScript and ReactNative), api and mobile tests.
 - :mailbox: How to reach me: lucas.g.gueedes@hotmail.com
 
 <div align="center">
