@@ -16,7 +16,7 @@
   <img align="center" alt="Lucas-Slack" height="30" width="40" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img align="center" alt="Lucas-React" height="30" width="40"  src="img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
           
-</div>
+</div>a
   
   ##
   <div>
