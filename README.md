@@ -14,7 +14,7 @@
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Lucas-Spotify" height="30" width="40" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   <img align="center" alt="Lucas-Slack" height="30" width="40" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img align="center" alt="Lucas-React" height="40" width="50" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square">
+  <img align="center" alt="Lucas-React" height="30" width="60" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square">
           
 </div>
   
