@@ -5,7 +5,8 @@
 
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgguedes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgguedes)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
