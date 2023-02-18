@@ -1,5 +1,5 @@
 ### Hi, I'm Lucas Guedes :wave:
-- :telescope: I’m currently working on Support Analyst Jr ll.
+- :telescope: I’m currently working on Support Analyst Pleno.
 - :seedling: I’m currently learning Front End (JavaScript and ReactNative), api and mobile tests.
 - :mailbox: How to reach me: www.linkedin.com/in/lucasgguedes
 
