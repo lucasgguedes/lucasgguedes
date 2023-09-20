@@ -15,8 +15,6 @@
   <img align="center" alt="Lucas-Js" height="30" width="70" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Lucas-React" height="30" width="70" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square">
-  <img align="center" alt="Lucas-React" height="30" width="70" src="https://img.shields.io/badge/-HTML5-orange?logo=html5&">
   <img align="center" alt="Lucas-Spotify" height="30" width="40" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   <img align="center" alt="Lucas-Slack" height="30" width="40" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
