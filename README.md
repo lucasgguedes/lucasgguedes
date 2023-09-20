@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas Guedes :wave:
 - :telescope: I’m currently working on Support Analyst Pleno.
-- :seedling: I’m currently learning Front End (JavaScript and ReactNative), api and mobile tests.
+- :seedling: I’m currently learning Quality Assurance Tester.
 - :mailbox: How to reach me: www.linkedin.com/in/lucasgguedes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgguedes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,5 +27,5 @@
   </div>
   
 
-  ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+ 
 
