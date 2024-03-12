@@ -1,5 +1,5 @@
 ### Hi, I'm Lucas Guedes :wave:
-- :telescope: I’m currently working on Support Analyst Pleno.
+- :telescope: I’m currently working on Support Analyst Senior.
 - :seedling: I’m currently learning Quality Assurance Tester.
 - :mailbox: How to reach me: www.linkedin.com/in/lucasgguedes
 
